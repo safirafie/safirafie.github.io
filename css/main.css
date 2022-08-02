@@ -19,3 +19,9 @@ img { max-width: 100%; }
 #content { background-color: #fff; padding: 1em 1em; border-radius: 0.6em; }
 
 @media print { #header { display: none; } }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
